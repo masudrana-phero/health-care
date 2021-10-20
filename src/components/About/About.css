@@ -1,0 +1,28 @@
+.about-area{
+    padding:  30px 50px;
+}
+.title{
+    text-align: center;
+}
+.about-container{
+    display: flex;
+}
+
+.description{
+    width:60%;
+    border: 1px solid lightgray;
+    padding: 15px;
+}
+.description p{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 400;
+}
+.img-container{
+    width: 450px;
+    margin: 0 auto;
+}
+.about-img{
+    width: 450px;
+    height: 300px;
+}

@@ -1,0 +1,16 @@
+.bg-color{
+    background-color: rgb(165, 212, 212);
+}
+.services-container{
+    padding: 50px;
+    background-color: lightblue;
+}
+.services-container h1{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.services-container span{
+    color: rgb(211, 96, 20);
+    font-style: italic;
+}

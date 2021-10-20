@@ -1,0 +1,36 @@
+.header-component{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 10px 50px;
+    background: black;
+}
+img{
+    height: 80px;
+}
+.menu{
+    margin-top: 20px;
+    width: 650px;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    transition: .5s;
+    font-weight: 600;
+}
+nav ul li a:hover{
+    color: brown;
+}
